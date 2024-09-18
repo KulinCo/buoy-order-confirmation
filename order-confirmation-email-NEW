@@ -237,14 +237,7 @@
                         <td style="direction: ltr; font-size: 0px; padding: 0px; text-align: center">
                           <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><table align="center" border="0" cellpadding="0" cellspacing="0" class="" style="width:600px;" width="600" bgcolor="#FFFFFF" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
                           <div style="background: #ffffff; background-color: #ffffff; margin: 0px auto; border-radius: 0px 0px 0px 0px; max-width: 600px">
-                            <table
-                              align="center"
-                              border="0"
-                              cellpadding="0"
-                              cellspacing="0"
-                              role="presentation"
-                              style="background: #ffffff; background-color: #ffffff; width: 100%; border-radius: 0px 0px 0px 0px"
-                            >
+                            <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background: #ffffff; background-color: #ffffff; width: 100%; border-radius: 0px 0px 0px 0px">
                               <tbody>
                                 <tr>
                                   <td style="direction: ltr; font-size: 0px; padding: 20px 0; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px; text-align: center">
@@ -254,10 +247,7 @@
                                       <div class="kl-row colstack" style="display: table; table-layout: fixed; width: 100%">
                                         <!--[if true]><td style="vertical-align:top;width:600px;"><![endif]-->
                                         <div class="kl-column" style="display: table-cell; vertical-align: top; width: 100%">
-                                          <div
-                                            class="mj-column-per-100 mj-outlook-group-fix component-wrapper"
-                                            style="font-size: 0px; text-align: left; direction: ltr; vertical-align: top; width: 100%"
-                                          >
+                                          <div class="mj-column-per-100 mj-outlook-group-fix component-wrapper" style="font-size: 0px; text-align: left; direction: ltr; vertical-align: top; width: 100%">
                                             <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%" width="100%">
                                               <tbody>
                                                 <tr>
@@ -271,23 +261,7 @@
                                                                 <tr>
                                                                   <td class="" style="border: 0; padding: 0px 0px 0px 0px; width: 100px" valign="top">
                                                                     <a href="https://justaddbuoy.com/?hlink1" style="color: #1f2322; font-style: normal; font-weight: 700; text-decoration: underline">
-                                                                      <img
-                                                                        alt="BUOY."
-                                                                        src="https://d3k81ch9hvuctc.cloudfront.net/company/UFRh4Z/images/7fdb960b-a4b6-47bd-9a96-286a76bd1e81.png"
-                                                                        style="
-                                                                          border: 0;
-                                                                          height: auto;
-                                                                          line-height: 100%;
-                                                                          max-width: 100%;
-                                                                          outline: none;
-                                                                          text-decoration: none;
-                                                                          display: block;
-                                                                          font-size: 13px;
-                                                                          width: 100%;
-                                                                        "
-                                                                        title="BUOY."
-                                                                        width="100"
-                                                                      />
+                                                                      <img alt="BUOY." src="https://d3k81ch9hvuctc.cloudfront.net/company/UFRh4Z/images/7fdb960b-a4b6-47bd-9a96-286a76bd1e81.png" style="border: 0; height: auto; line-height: 100%; max-width: 100%; outline: none; text-decoration: none; display: block; font-size: 13px; width: 100%" title="BUOY." width="100" />
                                                                     </a>
                                                                   </td>
                                                                 </tr>
@@ -302,10 +276,7 @@
                                               </tbody>
                                             </table>
                                           </div>
-                                          <div
-                                            class="mj-column-per-100 mj-outlook-group-fix component-wrapper"
-                                            style="font-size: 0px; text-align: left; direction: ltr; vertical-align: top; width: 100%"
-                                          >
+                                          <div class="mj-column-per-100 mj-outlook-group-fix component-wrapper" style="font-size: 0px; text-align: left; direction: ltr; vertical-align: top; width: 100%">
                                             <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%" width="100%">
                                               <tbody>
                                                 <tr>
@@ -313,59 +284,10 @@
                                                     <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
                                                       <tbody>
                                                         <tr>
-                                                          <td
-                                                            align="left"
-                                                            class="kl-text"
-                                                            style="
-                                                              font-size: 0px;
-                                                              padding: 0px;
-                                                              padding-top: 40px;
-                                                              padding-right: 80px;
-                                                              padding-bottom: 0px;
-                                                              padding-left: 80px;
-                                                              word-break: break-word;
-                                                            "
-                                                          >
-                                                            <div
-                                                              style="
-                                                                font-family: 'Inter', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif;
-                                                                font-size: 22px;
-                                                                font-style: Normal;
-                                                                font-weight: 300;
-                                                                letter-spacing: 0px;
-                                                                line-height: 1.5;
-                                                                text-align: left;
-                                                                color: #1f2322;
-                                                              "
-                                                            >
-                                                              <h1
-                                                                style="
-                                                                  color: #1f2322;
-                                                                  font-family: 'Rhymes Display', TimesNewRoman, 'Times New Roman', Times, Baskerville, Georgia, serif;
-                                                                  font-size: 62px;
-                                                                  font-style: normal;
-                                                                  font-weight: 300;
-                                                                  letter-spacing: 0;
-                                                                  line-height: 1.3;
-                                                                  margin: 0;
-                                                                  margin-bottom: 30px;
-                                                                  text-align: center;
-                                                                "
-                                                              >
-                                                                Thank You For Your Order!
-                                                              </h1>
-                                                              <p
-                                                                style="
-                                                                  margin-bottom: 0;
-                                                                  margin-left: 0;
-                                                                  margin-right: 0;
-                                                                  margin-top: 0;
-                                                                  padding-bottom: 0;
-                                                                  text-align: center;
-                                                                  font-family: Inter, 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif;
-                                                                  font-weight: 500;
-                                                                "
-                                                              >
+                                                          <td align="left" class="kl-text" style="font-size: 0px; padding: 0px; padding-top: 40px; padding-right: 80px; padding-bottom: 0px; padding-left: 80px; word-break: break-word">
+                                                            <div style="font-family: 'Inter', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif; font-size: 22px; font-style: Normal; font-weight: 300; letter-spacing: 0px; line-height: 1.5; text-align: left; color: #1f2322">
+                                                              <h1 style="color: #1f2322; font-family: 'Rhymes Display', TimesNewRoman, 'Times New Roman', Times, Baskerville, Georgia, serif; font-size: 62px; font-style: normal; font-weight: 300; letter-spacing: 0; line-height: 1.3; margin: 0; margin-bottom: 30px; text-align: center">Thank You For Your Order!</h1>
+                                                              <p style="margin-bottom: 0; margin-left: 0; margin-right: 0; margin-top: 0; padding-bottom: 0; text-align: center; font-family: Inter, 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif; font-weight: 500">
                                                                 <span style="font-size: 24px">{{ order_number }}</span>
                                                               </p>
                                                             </div>
@@ -378,10 +300,7 @@
                                               </tbody>
                                             </table>
                                           </div>
-                                          <div
-                                            class="mj-column-per-100 mj-outlook-group-fix component-wrapper"
-                                            style="font-size: 0px; text-align: left; direction: ltr; vertical-align: top; width: 100%"
-                                          >
+                                          <div class="mj-column-per-100 mj-outlook-group-fix component-wrapper" style="font-size: 0px; text-align: left; direction: ltr; vertical-align: top; width: 100%">
                                             <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%" width="100%">
                                               <tbody>
                                                 <tr>
@@ -394,21 +313,7 @@
                                                               <tbody>
                                                                 <tr>
                                                                   <td class="" style="border: 0; padding: 0px 0px 0px 0px; width: 491px" valign="top">
-                                                                    <img
-                                                                      src="https://d3k81ch9hvuctc.cloudfront.net/company/UFRh4Z/images/efcba729-3a2b-4c71-a4f7-329b8adf94c4.png"
-                                                                      style="
-                                                                        border: 0;
-                                                                        height: auto;
-                                                                        line-height: 100%;
-                                                                        max-width: 100%;
-                                                                        outline: none;
-                                                                        text-decoration: none;
-                                                                        display: block;
-                                                                        font-size: 13px;
-                                                                        width: 100%;
-                                                                      "
-                                                                      width="491"
-                                                                    />
+                                                                    <img src="https://d3k81ch9hvuctc.cloudfront.net/company/UFRh4Z/images/efcba729-3a2b-4c71-a4f7-329b8adf94c4.png" style="border: 0; height: auto; line-height: 100%; max-width: 100%; outline: none; text-decoration: none; display: block; font-size: 13px; width: 100%" width="491" />
                                                                   </td>
                                                                 </tr>
                                                               </tbody>
@@ -422,10 +327,7 @@
                                               </tbody>
                                             </table>
                                           </div>
-                                          <div
-                                            class="mj-column-per-100 mj-outlook-group-fix component-wrapper"
-                                            style="font-size: 0px; text-align: left; direction: ltr; vertical-align: top; width: 100%"
-                                          >
+                                          <div class="mj-column-per-100 mj-outlook-group-fix component-wrapper" style="font-size: 0px; text-align: left; direction: ltr; vertical-align: top; width: 100%">
                                             <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%" width="100%">
                                               <tbody>
                                                 <tr>
@@ -433,38 +335,11 @@
                                                     <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
                                                       <tbody>
                                                         <tr>
-                                                          <td
-                                                            align="left"
-                                                            class="kl-text"
-                                                            style="font-size: 0px; padding: 0px; padding-top: 0px; padding-right: 40px; padding-bottom: 0px; padding-left: 40px; word-break: break-word"
-                                                          >
-                                                            <div
-                                                              style="
-                                                                font-family: 'Inter', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif;
-                                                                font-size: 22px;
-                                                                font-style: Normal;
-                                                                font-weight: 300;
-                                                                letter-spacing: 0px;
-                                                                line-height: 1.5;
-                                                                text-align: left;
-                                                                color: #1f2322;
-                                                              "
-                                                            >
+                                                          <td align="left" class="kl-text" style="font-size: 0px; padding: 0px; padding-top: 0px; padding-right: 40px; padding-bottom: 0px; padding-left: 40px; word-break: break-word">
+                                                            <div style="font-family: 'Inter', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif; font-size: 22px; font-style: Normal; font-weight: 300; letter-spacing: 0px; line-height: 1.5; text-align: left; color: #1f2322">
                                                               <div>
-                                                                <p
-                                                                  style="
-                                                                    margin-bottom: 0;
-                                                                    margin-left: 0;
-                                                                    margin-right: 0;
-                                                                    margin-top: 0;
-                                                                    padding-bottom: 0;
-                                                                    text-align: center;
-                                                                    font-family: Inter, 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif;
-                                                                    font-weight: 300;
-                                                                  "
-                                                                >
-                                                                  We’ll send you an email when it ships, so keep an eye on your inbox for tracking updates! In the meantime, check out our affiliate
-                                                                  program.
+                                                                <p style="margin-bottom: 0; margin-left: 0; margin-right: 0; margin-top: 0; padding-bottom: 0; text-align: center; font-family: Inter, 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif; font-weight: 300">
+                                                                  We’ll send you an email when it ships, so keep an eye on your inbox for tracking updates! In the meantime, check out our affiliate program.
                                                                 </p>
                                                               </div>
                                                             </div>
@@ -477,10 +352,7 @@
                                               </tbody>
                                             </table>
                                           </div>
-                                          <div
-                                            class="mj-column-per-100 mj-outlook-group-fix component-wrapper"
-                                            style="font-size: 0px; text-align: left; direction: ltr; vertical-align: top; width: 100%"
-                                          >
+                                          <div class="mj-column-per-100 mj-outlook-group-fix component-wrapper" style="font-size: 0px; text-align: left; direction: ltr; vertical-align: top; width: 100%">
                                             <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%" width="100%">
                                               <tbody>
                                                 <tr>
@@ -495,18 +367,7 @@
                                                                   align="center"
                                                                   bgcolor="#1F2322"
                                                                   role="presentation"
-                                                                  style="
-                                                                    border: none;
-                                                                    border-bottom: solid 1px #1f2322;
-                                                                    border-left: solid 1px #1f2322;
-                                                                    border-radius: 100px;
-                                                                    border-right: solid 1px #1f2322;
-                                                                    border-top: solid 1px #1f2322;
-                                                                    cursor: auto;
-                                                                    font-style: normal;
-                                                                    mso-padding-alt: 16px 65px 16px 65px;
-                                                                    background: #1f2322;
-                                                                  "
+                                                                  style="border: none; border-bottom: solid 1px #1f2322; border-left: solid 1px #1f2322; border-radius: 100px; border-right: solid 1px #1f2322; border-top: solid 1px #1f2322; cursor: auto; font-style: normal; mso-padding-alt: 16px 65px 16px 65px; background: #1f2322"
                                                                   valign="middle"
                                                                 >
                                                                   <a
@@ -544,10 +405,7 @@
                                               </tbody>
                                             </table>
                                           </div>
-                                          <div
-                                            class="mj-column-per-100 mj-outlook-group-fix component-wrapper"
-                                            style="font-size: 0px; text-align: left; direction: ltr; vertical-align: top; width: 100%"
-                                          >
+                                          <div class="mj-column-per-100 mj-outlook-group-fix component-wrapper" style="font-size: 0px; text-align: left; direction: ltr; vertical-align: top; width: 100%">
                                             <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%" width="100%">
                                               <tbody>
                                                 <tr>
@@ -560,24 +418,11 @@
                                                               <tbody>
                                                                 <tr>
                                                                   <td class="kl-img-base-auto-width" style="border: 0; padding: 0px 0px 0px 0px; width: 600px" valign="top">
-                                                                    <a
-                                                                      href="https://justaddbuoy.com/pages/affiliates/?img1"
-                                                                      style="color: #1f2322; font-style: normal; font-weight: 700; text-decoration: underline"
-                                                                    >
+                                                                    <a href="https://justaddbuoy.com/pages/affiliates/?img1" style="color: #1f2322; font-style: normal; font-weight: 700; text-decoration: underline">
                                                                       <img
                                                                         alt="A few hands holding various Buoy products above a Buoy mailer package."
                                                                         src="https://d3k81ch9hvuctc.cloudfront.net/company/UFRh4Z/images/1115f7b5-dbe6-4bf4-a30b-f9ecb25787de.png"
-                                                                        style="
-                                                                          border: 0;
-                                                                          height: auto;
-                                                                          line-height: 100%;
-                                                                          max-width: 100%;
-                                                                          outline: none;
-                                                                          text-decoration: none;
-                                                                          display: block;
-                                                                          font-size: 13px;
-                                                                          width: 100%;
-                                                                        "
+                                                                        style="border: 0; height: auto; line-height: 100%; max-width: 100%; outline: none; text-decoration: none; display: block; font-size: 13px; width: 100%"
                                                                         title="A few hands holding various Buoy products above a Buoy mailer package."
                                                                         width="600"
                                                                       />
@@ -629,14 +474,7 @@
                         <td style="direction: ltr; font-size: 0px; padding: 0px; text-align: center">
                           <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><table align="center" border="0" cellpadding="0" cellspacing="0" class="" style="width:600px;" width="600" bgcolor="#ffffff" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
                           <div style="background: #ffffff; background-color: #ffffff; margin: 0px auto; border-radius: 0px 0px 0px 0px; max-width: 600px">
-                            <table
-                              align="center"
-                              border="0"
-                              cellpadding="0"
-                              cellspacing="0"
-                              role="presentation"
-                              style="background: #ffffff; background-color: #ffffff; width: 100%; border-radius: 0px 0px 0px 0px"
-                            >
+                            <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background: #ffffff; background-color: #ffffff; width: 100%; border-radius: 0px 0px 0px 0px">
                               <tbody>
                                 <tr>
                                   <td style="direction: ltr; font-size: 0px; padding: 20px 0; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px; text-align: center">
@@ -646,10 +484,7 @@
                                       <div class="kl-row colstack" style="display: table; table-layout: fixed; width: 100%">
                                         <!--[if true]><td style="vertical-align:middle;width:600px;"><![endif]-->
                                         <div class="kl-column" style="display: table-cell; vertical-align: middle; width: 100%">
-                                          <div
-                                            class="mj-column-per-100 mj-outlook-group-fix component-wrapper"
-                                            style="font-size: 0px; text-align: left; direction: ltr; vertical-align: top; width: 100%"
-                                          >
+                                          <div class="mj-column-per-100 mj-outlook-group-fix component-wrapper" style="font-size: 0px; text-align: left; direction: ltr; vertical-align: top; width: 100%">
                                             <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%" width="100%">
                                               <tbody>
                                                 <tr>
@@ -657,47 +492,9 @@
                                                     <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
                                                       <tbody>
                                                         <tr>
-                                                          <td
-                                                            align="left"
-                                                            class="kl-text"
-                                                            style="
-                                                              font-size: 0px;
-                                                              padding: 0px;
-                                                              padding-top: 60px;
-                                                              padding-right: 40px;
-                                                              padding-bottom: 0px;
-                                                              padding-left: 40px;
-                                                              word-break: break-word;
-                                                            "
-                                                          >
-                                                            <div
-                                                              style="
-                                                                font-family: 'Inter', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif;
-                                                                font-size: 22px;
-                                                                font-style: Normal;
-                                                                font-weight: 300;
-                                                                letter-spacing: 0px;
-                                                                line-height: 1.5;
-                                                                text-align: left;
-                                                                color: #1f2322;
-                                                              "
-                                                            >
-                                                              <h2
-                                                                style="
-                                                                  color: #1f2322;
-                                                                  font-family: 'Inter', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif;
-                                                                  font-size: 40px;
-                                                                  font-style: Normal;
-                                                                  font-weight: 400;
-                                                                  letter-spacing: 0;
-                                                                  line-height: 1.3;
-                                                                  margin: 0;
-                                                                  margin-bottom: 30px;
-                                                                  text-align: center;
-                                                                "
-                                                              >
-                                                                Here's What You Ordered
-                                                              </h2>
+                                                          <td align="left" class="kl-text" style="font-size: 0px; padding: 0px; padding-top: 60px; padding-right: 40px; padding-bottom: 0px; padding-left: 40px; word-break: break-word">
+                                                            <div style="font-family: 'Inter', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif; font-size: 22px; font-style: Normal; font-weight: 300; letter-spacing: 0px; line-height: 1.5; text-align: left; color: #1f2322">
+                                                              <h2 style="color: #1f2322; font-family: 'Inter', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif; font-size: 40px; font-style: Normal; font-weight: 400; letter-spacing: 0; line-height: 1.3; margin: 0; margin-bottom: 30px; text-align: center">Here's What You Ordered</h2>
                                                             </div>
                                                           </td>
                                                         </tr>
@@ -708,10 +505,7 @@
                                               </tbody>
                                             </table>
                                           </div>
-                                          <div
-                                            class="mj-column-per-100 mj-outlook-group-fix component-wrapper"
-                                            style="font-size: 0px; text-align: left; direction: ltr; display: inline-block; vertical-align: top; width: 100%"
-                                          >
+                                          <div class="mj-column-per-100 mj-outlook-group-fix component-wrapper" style="font-size: 0px; text-align: left; direction: ltr; display: inline-block; vertical-align: top; width: 100%">
                                             <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="table-layout: fixed" width="100%">
                                               <tbody>
                                                 <tr>
@@ -720,40 +514,14 @@
                                                       <tbody>
                                                         <tr>
                                                           <td align="left" class="kl-table" style="font-size: 0px; padding: 0px; word-break: break-word">
-                                                            <table
-                                                              border="0"
-                                                              cellpadding="0"
-                                                              cellspacing="0"
-                                                              style="
-                                                                color: #000000;
-                                                                font-family: Ubuntu, Helvetica, Arial, sans-serif;
-                                                                font-size: 13px;
-                                                                line-height: 22px;
-                                                                table-layout: fixed;
-                                                                width: 100%;
-                                                                border: none;
-                                                              "
-                                                              width="100%"
-                                                            >
+                                                            <table border="0" cellpadding="0" cellspacing="0" style="color: #000000; font-family: Ubuntu, Helvetica, Arial, sans-serif; font-size: 13px; line-height: 22px; table-layout: fixed; width: 100%; border: none" width="100%">
                                                               {% if line_items %}
 
                                                               <thead></thead>
                                                               <tbody>
                                                                 {% assign plus_subtotal = 0 %} {% for line in line_items %} {% assign plus_subtotal = plus_subtotal | plus: line.line_price %}
                                                                 <tr>
-                                                                  <td
-                                                                    class="kl-table-subblock"
-                                                                    style="
-                                                                      width: 25%;
-                                                                      overflow: hidden;
-                                                                      border-top: solid 1px #1f2322;
-                                                                      vertical-align: middle;
-                                                                      padding-top: 30px;
-                                                                      padding-right: 18px;
-                                                                      padding-bottom: 30px;
-                                                                      padding-left: 18px;
-                                                                    "
-                                                                  >
+                                                                  <td class="kl-table-subblock" style="width: 25%; overflow: hidden; border-top: solid 1px #1f2322; vertical-align: middle; padding-top: 30px; padding-right: 18px; padding-bottom: 30px; padding-left: 18px">
                                                                     <table border="0" cellpadding="0" cellspacing="0" width="100%">
                                                                       <tr>
                                                                         <td align="right" class="" style="font-size: 0px; word-break: break-word">
@@ -761,23 +529,7 @@
                                                                             <tbody>
                                                                               <tr>
                                                                                 <td class="" style="width: 200px; border: 0; padding: 0" valign="top">
-                                                                                  <img
-                                                                                    alt="line.title"
-                                                                                    src="{{ line.product.featured_image | product_img_url: 'medium' }}"
-                                                                                    style="
-                                                                                      border: 0;
-                                                                                      height: auto;
-                                                                                      line-height: 100%;
-                                                                                      max-width: 100%;
-                                                                                      outline: none;
-                                                                                      text-decoration: none;
-                                                                                      display: block;
-                                                                                      width: 100%;
-                                                                                      font-size: 13px;
-                                                                                    "
-                                                                                    title="line.title"
-                                                                                    width="200"
-                                                                                  />
+                                                                                  <img alt="line.title" src="{{ line.product.featured_image | product_img_url: 'medium' }}" style="border: 0; height: auto; line-height: 100%; max-width: 100%; outline: none; text-decoration: none; display: block; width: 100%; font-size: 13px" title="line.title" width="200" />
                                                                                 </td>
                                                                               </tr>
                                                                             </tbody>
@@ -786,67 +538,22 @@
                                                                       </tr>
                                                                     </table>
                                                                   </td>
-                                                                  <td
-                                                                    class="kl-table-subblock"
-                                                                    style="
-                                                                      width: 75%;
-                                                                      overflow: hidden;
-                                                                      border-top: solid 1px #1f2322;
-                                                                      vertical-align: middle;
-                                                                      padding-top: 30px;
-                                                                      padding-right: 18px;
-                                                                      padding-bottom: 30px;
-                                                                      padding-left: 18px;
-                                                                    "
-                                                                  >
-                                                                    <div
-                                                                      style="
-                                                                        font-family: 'Inter', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif;
-                                                                        font-size: 18px;
-                                                                        font-style: Normal;
-                                                                        font-weight: 300;
-                                                                        letter-spacing: 0px;
-                                                                        line-height: 1.5;
-                                                                        text-align: left;
-                                                                        color: #1f2322;
-                                                                      "
-                                                                    >
+                                                                  <td class="kl-table-subblock" style="width: 75%; overflow: hidden; border-top: solid 1px #1f2322; vertical-align: middle; padding-top: 30px; padding-right: 18px; padding-bottom: 30px; padding-left: 18px">
+                                                                    <div style="font-family: 'Inter', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif; font-size: 18px; font-style: Normal; font-weight: 300; letter-spacing: 0px; line-height: 1.5; text-align: left; color: #1f2322">
                                                                       <div style="text-align: left">
-                                                                        <h3
-                                                                          style="
-                                                                            color: #1f2322;
-                                                                            font-family: 'Inter', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif;
-                                                                            font-size: 24px;
-                                                                            font-style: Normal;
-                                                                            font-weight: 400;
-                                                                            letter-spacing: 0;
-                                                                            line-height: 1.3;
-                                                                            margin: 0;
-                                                                            margin-bottom: 30px;
-                                                                            text-align: left;
-                                                                          "
-                                                                        >
-                                                                          {{ line.title }}
-                                                                        </h3>
+                                                                        <h3 style="color: #1f2322; font-family: 'Inter', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif; font-size: 24px; font-style: Normal; font-weight: 400; letter-spacing: 0; line-height: 1.3; margin: 0; margin-bottom: 30px; text-align: left">{{ line.title }}</h3>
                                                                         <p style="margin-bottom: 0; margin-left: 0; margin-right: 0; margin-top: 0; padding-bottom: 0">
                                                                           <span style="font-size: 16px"> Quantity: {{ line.quantity }} </span>
                                                                           <br />
-                                                                          <span style="font-size: 16px">
-                                                                            Unit Price: {% if line.quantity > 1 %} {{ line.original_line_price | divided_by: line.quantity | money }} {% else %} {{
-                                                                            line.original_line_price | money }} {% endif %}
-                                                                          </span>
+
+                                                                          <span style="font-size: 16px"> Unit Price: {% if line.quantity > 1 %} {{ line.original_line_price | divided_by: line.quantity | money }} {% else %} {{ line.original_line_price | money }} {% endif %} </span>
                                                                           <br />
                                                                           <span style="font-size: 16px">
-                                                                            {%- assign plus_line_discount = 0 -%} {%- if line.line_level_total_discount > 0 -%} {%- assign plus_line_discount =
-                                                                            plus_line_discount | plus: line.line_level_total_discount -%} Discount: {% if line.discount_allocations.size > 0 %} {% for
-                                                                            discount_allocation in line.discount_allocations %} {% assign discount_application =
-                                                                            discount_allocation.discount_application %} {% if discount_application.target_type == 'line_item' and
-                                                                            discount_application.target_selection == 'explicit' %} ({{ discount_application.title }}) -{{ discount_allocation.amount |
-                                                                            money }} {% endif %} {% endfor %} {% endif %}
+                                                                            {% if line.line_level_discount_allocations.size > 0 %} {% for discount_allocation in line.line_level_discount_allocations %} {{ discount_allocation.discount_application.title }}: -{{ discount_allocation.amount | money }}
                                                                             <br />
-                                                                            {%- endif -%}
+                                                                            {% endfor %} {% endif %}
                                                                           </span>
-                                                                          <span style="font-size: 16px"> Total: {{ line.original_line_price | minus: plus_line_discount | money }} </span>
+                                                                          <span style="font-size: 16px"> Total: {{ line.final_price | money }} </span>
                                                                         </p>
                                                                       </div>
                                                                     </div>
@@ -868,10 +575,7 @@
                                               </tbody>
                                             </table>
                                           </div>
-                                          <div
-                                            class="mj-column-per-100 mj-outlook-group-fix component-wrapper"
-                                            style="font-size: 0px; text-align: left; direction: ltr; vertical-align: top; width: 100%"
-                                          >
+                                          <div class="mj-column-per-100 mj-outlook-group-fix component-wrapper" style="font-size: 0px; text-align: left; direction: ltr; vertical-align: top; width: 100%">
                                             <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%" width="100%">
                                               <tbody>
                                                 <tr>
@@ -890,10 +594,7 @@
                                               </tbody>
                                             </table>
                                           </div>
-                                          <div
-                                            class="mj-column-per-100 mj-outlook-group-fix component-wrapper"
-                                            style="font-size: 0px; text-align: left; direction: ltr; vertical-align: top; width: 100%"
-                                          >
+                                          <div class="mj-column-per-100 mj-outlook-group-fix component-wrapper" style="font-size: 0px; text-align: left; direction: ltr; vertical-align: top; width: 100%">
                                             <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%" width="100%">
                                               <tbody>
                                                 <tr>
@@ -901,36 +602,29 @@
                                                     <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
                                                       <tbody>
                                                         <tr>
-                                                          <td
-                                                            align="left"
-                                                            class="kl-text"
-                                                            style="
-                                                              font-size: 0px;
-                                                              padding: 0px;
-                                                              padding-top: 30px;
-                                                              padding-right: 40px;
-                                                              padding-bottom: 30px;
-                                                              padding-left: 40px;
-                                                              word-break: break-word;
-                                                            "
-                                                          >
-                                                            <div
-                                                              style="
-                                                                font-family: 'Inter', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif;
-                                                                font-size: 22px;
-                                                                font-style: Normal;
-                                                                font-weight: 300;
-                                                                letter-spacing: 0px;
-                                                                line-height: 1.5;
-                                                                text-align: left;
-                                                                color: #1f2322;
-                                                              "
-                                                            >
+                                                          <td align="left" class="kl-text" style="font-size: 0px; padding: 0px; padding-top: 30px; padding-right: 40px; padding-bottom: 30px; padding-left: 40px; word-break: break-word">
+                                                            <div style="font-family: 'Inter', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif; font-size: 22px; font-style: Normal; font-weight: 300; letter-spacing: 0px; line-height: 1.5; text-align: left; color: #1f2322">
                                                               <p style="margin-bottom: 0; margin-left: 0; margin-right: 0; margin-top: 0; padding-bottom: 0; font-size: 16px">
-                                                                <span style="font-weight: 500"> Subtotal: </span> $105.00<br />
-                                                                <span style="font-weight: 500"> Shipping: </span> Free<br />
-                                                                <span style="font-weight: 500"> Total Discounts: </span> -$10.00<br />
-                                                                <span style="font-weight: 500"> Order Total: </span> $100.00
+                                                                {% assign free_shipping = false %}
+                                                                <span style="font-weight: 500">Subtotal:</span> {{ order.line_items_subtotal_price | money }}
+                                                                <br />
+                                                                {% if order.discount_applications.size > 0 %} {% for discount_application in order.discount_applications %} {% if discount_application.title contains "FREESHIPPING" %} {% assign free_shipping = true %}
+                                                                <span style="font-weight: 500"> ({{ discount_application.title }}):</span> -{{ order.shipping_price | money }}
+                                                                <br />
+                                                                {% elsif discount_application.target_type != "line_item" or discount_application.target_selection != "explicit" %}
+                                                                <span style="font-weight: 500"> ({{ discount_application.title }}):</span> -{{ discount_application.total_allocated_amount | money }}
+                                                                <br />
+                                                                {% endif %} {% endfor %} {% endif %} {% if free_shipping %}
+                                                                <span style="font-weight: 500">Shipping:</span> Free
+                                                                <br />
+                                                                {% else shipping_discount > 0 %}
+                                                                <span style="font-weight: 500">Shipping:</span> {{ order.shipping_price | money }}
+                                                                <br />
+                                                                {% endif %} {%if order.tax_price > 0%}
+                                                                <span style="font-weight: 500">Taxes:</span> {{ order.tax_price | money }}
+                                                                <br />
+                                                                {% endif %}
+                                                                <span style="font-weight: 500">Total:</span> {{ order.total_price | money }}
                                                               </p>
                                                             </div>
                                                           </td>
@@ -942,10 +636,7 @@
                                               </tbody>
                                             </table>
                                           </div>
-                                          <div
-                                            class="mj-column-per-100 mj-outlook-group-fix component-wrapper"
-                                            style="font-size: 0px; text-align: left; direction: ltr; vertical-align: top; width: 100%"
-                                          >
+                                          <div class="mj-column-per-100 mj-outlook-group-fix component-wrapper" style="font-size: 0px; text-align: left; direction: ltr; vertical-align: top; width: 100%">
                                             <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%" width="100%">
                                               <tbody>
                                                 <tr>
@@ -954,29 +645,9 @@
                                                       <tbody>
                                                         <tr>
                                                           <td align="center" style="font-size: 0px; padding: 0px; word-break: break-word">
-                                                            <p
-                                                              style="
-                                                                margin-bottom: 0;
-                                                                margin-left: 0;
-                                                                margin-right: 0;
-                                                                margin-top: 0;
-                                                                padding-bottom: 0;
-                                                                border-top: solid 1px #1f2322;
-                                                                font-size: 1px;
-                                                                margin: 0 auto;
-                                                                width: 100%;
-                                                              "
-                                                            ></p>
+                                                            <p style="margin-bottom: 0; margin-left: 0; margin-right: 0; margin-top: 0; padding-bottom: 0; border-top: solid 1px #1f2322; font-size: 1px; margin: 0 auto; width: 100%"></p>
                                                             <!--[if mso | IE
-                                                              ]><table
-                                                                align="center"
-                                                                border="0"
-                                                                cellpadding="0"
-                                                                cellspacing="0"
-                                                                style="border-top: solid 1px #1f2322; font-size: 1px; margin: 0px auto; width: 600px"
-                                                                role="presentation"
-                                                                width="600px"
-                                                              >
+                                                              ]><table align="center" border="0" cellpadding="0" cellspacing="0" style="border-top: solid 1px #1f2322; font-size: 1px; margin: 0px auto; width: 600px" role="presentation" width="600px">
                                                                 <tr>
                                                                   <td style="height: 0; line-height: 0">&nbsp;</td>
                                                                 </tr>
@@ -991,10 +662,7 @@
                                               </tbody>
                                             </table>
                                           </div>
-                                          <div
-                                            class="mj-column-per-100 mj-outlook-group-fix component-wrapper"
-                                            style="font-size: 0px; text-align: left; direction: ltr; vertical-align: top; width: 100%"
-                                          >
+                                          <div class="mj-column-per-100 mj-outlook-group-fix component-wrapper" style="font-size: 0px; text-align: left; direction: ltr; vertical-align: top; width: 100%">
                                             <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%" width="100%">
                                               <tbody>
                                                 <tr>
@@ -1002,36 +670,10 @@
                                                     <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
                                                       <tbody>
                                                         <tr>
-                                                          <td
-                                                            align="left"
-                                                            class="kl-text"
-                                                            style="
-                                                              font-size: 0px;
-                                                              padding: 0px;
-                                                              padding-top: 30px;
-                                                              padding-right: 40px;
-                                                              padding-bottom: 30px;
-                                                              padding-left: 40px;
-                                                              word-break: break-word;
-                                                            "
-                                                          >
-                                                            <div
-                                                              style="
-                                                                font-family: 'Inter', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif;
-                                                                font-size: 22px;
-                                                                font-style: Normal;
-                                                                font-weight: 300;
-                                                                letter-spacing: 0px;
-                                                                line-height: 1.5;
-                                                                text-align: left;
-                                                                color: #1f2322;
-                                                              "
-                                                            >
+                                                          <td align="left" class="kl-text" style="font-size: 0px; padding: 0px; padding-top: 30px; padding-right: 40px; padding-bottom: 30px; padding-left: 40px; word-break: break-word">
+                                                            <div style="font-family: 'Inter', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif; font-size: 22px; font-style: Normal; font-weight: 300; letter-spacing: 0px; line-height: 1.5; text-align: left; color: #1f2322">
                                                               <div>
-                                                                <p style="margin-bottom: 0; margin-left: 0; margin-right: 0; margin-top: 0; padding-bottom: 0; font-size: 16px">
-                                                                  <span style="font-weight: 500">Shipped To:</span><br />{{ shipping_address.name }}<br />{{ shipping_address.street }}<br />{{
-                                                                  shipping_address.city }}, {{ shipping_address.province }} {{ shipping_address.zip }}
-                                                                </p>
+                                                                <p style="margin-bottom: 0; margin-left: 0; margin-right: 0; margin-top: 0; padding-bottom: 0; font-size: 16px"><span style="font-weight: 500">Shipped To:</span><br />{{ shipping_address.name }}<br />{{ shipping_address.street }}<br />{{ shipping_address.city }}, {{ shipping_address.province }} {{ shipping_address.zip }}</p>
                                                               </div>
                                                             </div>
                                                           </td>
@@ -1077,14 +719,7 @@
                         <td style="direction: ltr; font-size: 0px; padding: 0px; text-align: center">
                           <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><table align="center" border="0" cellpadding="0" cellspacing="0" class="" style="width:600px;" width="600" bgcolor="#F8F1EB" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
                           <div style="background: #f8f1eb; background-color: #f8f1eb; margin: 0px auto; border-radius: 0px 0px 0px 0px; max-width: 600px">
-                            <table
-                              align="center"
-                              border="0"
-                              cellpadding="0"
-                              cellspacing="0"
-                              role="presentation"
-                              style="background: #f8f1eb; background-color: #f8f1eb; width: 100%; border-radius: 0px 0px 0px 0px"
-                            >
+                            <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background: #f8f1eb; background-color: #f8f1eb; width: 100%; border-radius: 0px 0px 0px 0px">
                               <tbody>
                                 <tr>
                                   <td style="direction: ltr; font-size: 0px; padding: 20px 0; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px; text-align: center">
@@ -1094,10 +729,7 @@
                                       <div class="kl-row colstack" style="display: table; table-layout: fixed; width: 100%">
                                         <!--[if true]><td style="vertical-align:top;width:600px;"><![endif]-->
                                         <div class="kl-column" style="display: table-cell; vertical-align: top; width: 100%">
-                                          <div
-                                            class="mj-column-per-100 mj-outlook-group-fix component-wrapper"
-                                            style="font-size: 0px; text-align: left; direction: ltr; vertical-align: top; width: 100%"
-                                          >
+                                          <div class="mj-column-per-100 mj-outlook-group-fix component-wrapper" style="font-size: 0px; text-align: left; direction: ltr; vertical-align: top; width: 100%">
                                             <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%" width="100%">
                                               <tbody>
                                                 <tr>
@@ -1106,29 +738,9 @@
                                                       <tbody>
                                                         <tr>
                                                           <td align="center" style="font-size: 0px; padding: 0px; word-break: break-word">
-                                                            <p
-                                                              style="
-                                                                margin-bottom: 0;
-                                                                margin-left: 0;
-                                                                margin-right: 0;
-                                                                margin-top: 0;
-                                                                padding-bottom: 0;
-                                                                border-top: solid 1px #1f2322;
-                                                                font-size: 1px;
-                                                                margin: 0 auto;
-                                                                width: 100%;
-                                                              "
-                                                            ></p>
+                                                            <p style="margin-bottom: 0; margin-left: 0; margin-right: 0; margin-top: 0; padding-bottom: 0; border-top: solid 1px #1f2322; font-size: 1px; margin: 0 auto; width: 100%"></p>
                                                             <!--[if mso | IE
-                                                              ]><table
-                                                                align="center"
-                                                                border="0"
-                                                                cellpadding="0"
-                                                                cellspacing="0"
-                                                                style="border-top: solid 1px #1f2322; font-size: 1px; margin: 0px auto; width: 600px"
-                                                                role="presentation"
-                                                                width="600px"
-                                                              >
+                                                              ]><table align="center" border="0" cellpadding="0" cellspacing="0" style="border-top: solid 1px #1f2322; font-size: 1px; margin: 0px auto; width: 600px" role="presentation" width="600px">
                                                                 <tr>
                                                                   <td style="height: 0; line-height: 0">&nbsp;</td>
                                                                 </tr>
@@ -1143,10 +755,7 @@
                                               </tbody>
                                             </table>
                                           </div>
-                                          <div
-                                            class="mj-column-per-100 mj-outlook-group-fix component-wrapper desktop-only"
-                                            style="font-size: 0px; text-align: left; direction: ltr; vertical-align: top; width: 100%"
-                                          >
+                                          <div class="mj-column-per-100 mj-outlook-group-fix component-wrapper desktop-only" style="font-size: 0px; text-align: left; direction: ltr; vertical-align: top; width: 100%">
                                             <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%" width="100%">
                                               <tbody>
                                                 <tr>
@@ -1165,10 +774,7 @@
                                               </tbody>
                                             </table>
                                           </div>
-                                          <div
-                                            class="mj-column-per-100 mj-outlook-group-fix component-wrapper"
-                                            style="font-size: 0px; text-align: left; direction: ltr; vertical-align: top; width: 100%"
-                                          >
+                                          <div class="mj-column-per-100 mj-outlook-group-fix component-wrapper" style="font-size: 0px; text-align: left; direction: ltr; vertical-align: top; width: 100%">
                                             <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%" width="100%">
                                               <tbody>
                                                 <tr>
@@ -1176,31 +782,8 @@
                                                     <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
                                                       <tbody>
                                                         <tr>
-                                                          <td
-                                                            align="left"
-                                                            class="kl-text"
-                                                            style="
-                                                              font-size: 0px;
-                                                              padding: 0px;
-                                                              padding-top: 22px;
-                                                              padding-right: 40px;
-                                                              padding-bottom: 22px;
-                                                              padding-left: 40px;
-                                                              word-break: break-word;
-                                                            "
-                                                          >
-                                                            <div
-                                                              style="
-                                                                font-family: 'Inter', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif;
-                                                                font-size: 22px;
-                                                                font-style: Normal;
-                                                                font-weight: 300;
-                                                                letter-spacing: 0px;
-                                                                line-height: 1.5;
-                                                                text-align: left;
-                                                                color: #1f2322;
-                                                              "
-                                                            >
+                                                          <td align="left" class="kl-text" style="font-size: 0px; padding: 0px; padding-top: 22px; padding-right: 40px; padding-bottom: 22px; padding-left: 40px; word-break: break-word">
+                                                            <div style="font-family: 'Inter', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif; font-size: 22px; font-style: Normal; font-weight: 300; letter-spacing: 0px; line-height: 1.5; text-align: left; color: #1f2322">
                                                               <div style="background-color: #ffffff; border: 1px solid #1f2322; border-radius: 10px">
                                                                 <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
                                                                   <tbody>
@@ -1214,41 +797,10 @@
                                                                                   <tbody>
                                                                                     <tr>
                                                                                       <td style="padding-bottom: 24px">
-                                                                                        <h2
-                                                                                          style="
-                                                                                            color: #1f2322;
-                                                                                            font-family: 'Inter', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif;
-                                                                                            font-size: 40px;
-                                                                                            font-style: Normal;
-                                                                                            font-weight: 400;
-                                                                                            letter-spacing: 0;
-                                                                                            line-height: 1.3;
-                                                                                            margin: 0;
-                                                                                            margin-bottom: 16px;
-                                                                                            text-align: center;
-                                                                                          "
-                                                                                        >
-                                                                                          <span
-                                                                                            style="
-                                                                                              font-family: 'Rhymes Display', TimesNewRoman, 'Times New Roman', Times, Baskerville, Georgia, serif;
-                                                                                              font-weight: 300;
-                                                                                              font-style: normal;
-                                                                                            "
-                                                                                            >Doing Your Part</span
-                                                                                          >
+                                                                                        <h2 style="color: #1f2322; font-family: 'Inter', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif; font-size: 40px; font-style: Normal; font-weight: 400; letter-spacing: 0; line-height: 1.3; margin: 0; margin-bottom: 16px; text-align: center">
+                                                                                          <span style="font-family: 'Rhymes Display', TimesNewRoman, 'Times New Roman', Times, Baskerville, Georgia, serif; font-weight: 300; font-style: normal">Doing Your Part</span>
                                                                                         </h2>
-                                                                                        <p
-                                                                                          style="
-                                                                                            margin-bottom: 0;
-                                                                                            margin-left: 0;
-                                                                                            margin-right: 0;
-                                                                                            margin-top: 0;
-                                                                                            padding-bottom: 0;
-                                                                                            text-align: center;
-                                                                                          "
-                                                                                        >
-                                                                                          With this order, you're supporting our people and our planet.
-                                                                                        </p>
+                                                                                        <p style="margin-bottom: 0; margin-left: 0; margin-right: 0; margin-top: 0; padding-bottom: 0; text-align: center">With this order, you're supporting our people and our planet.</p>
                                                                                       </td>
                                                                                     </tr>
                                                                                     <tr>
@@ -1257,77 +809,26 @@
                                                                                           <tbody>
                                                                                             <tr>
                                                                                               <td height="auto" style="width: 40px; height: auto; padding: 4px 24px 4px 0px" width="40">
-                                                                                                <img
-                                                                                                  alt=""
-                                                                                                  height="40px"
-                                                                                                  src="https://d3k81ch9hvuctc.cloudfront.net/company/UFRh4Z/images/45ad1cf5-8b6b-4359-af5f-478aa2a492ba.png"
-                                                                                                  style="
-                                                                                                    border: 0;
-                                                                                                    height: 40px;
-                                                                                                    line-height: 100%;
-                                                                                                    max-width: 100%;
-                                                                                                    outline: none;
-                                                                                                    text-decoration: none;
-                                                                                                    width: auto;
-                                                                                                    display: inline;
-                                                                                                  "
-                                                                                                  width="auto"
-                                                                                                />
+                                                                                                <img alt="" height="40px" src="https://d3k81ch9hvuctc.cloudfront.net/company/UFRh4Z/images/45ad1cf5-8b6b-4359-af5f-478aa2a492ba.png" style="border: 0; height: 40px; line-height: 100%; max-width: 100%; outline: none; text-decoration: none; width: auto; display: inline" width="auto" />
                                                                                               </td>
                                                                                               <td style="width: auto; padding-bottom: 5px" width="auto">
-                                                                                                <p style="margin-bottom: 0; margin-left: 0; margin-right: 0; margin-top: 0; padding-bottom: 0">
-                                                                                                  1:1 Donations To Chronic Illnesses
-                                                                                                </p>
+                                                                                                <p style="margin-bottom: 0; margin-left: 0; margin-right: 0; margin-top: 0; padding-bottom: 0">1:1 Donations To Chronic Illnesses</p>
                                                                                               </td>
                                                                                             </tr>
                                                                                             <tr>
                                                                                               <td height="auto" style="width: 40px; height: auto; padding: 4px 24px 4px 0px" width="40">
-                                                                                                <img
-                                                                                                  alt=""
-                                                                                                  height="40px"
-                                                                                                  src="https://d3k81ch9hvuctc.cloudfront.net/company/UFRh4Z/images/14d72437-6663-4f2e-a018-206841e37b82.png"
-                                                                                                  style="
-                                                                                                    border: 0;
-                                                                                                    height: 40px;
-                                                                                                    line-height: 100%;
-                                                                                                    max-width: 100%;
-                                                                                                    outline: none;
-                                                                                                    text-decoration: none;
-                                                                                                    width: auto;
-                                                                                                    display: inline;
-                                                                                                  "
-                                                                                                  width="auto"
-                                                                                                />
+                                                                                                <img alt="" height="40px" src="https://d3k81ch9hvuctc.cloudfront.net/company/UFRh4Z/images/14d72437-6663-4f2e-a018-206841e37b82.png" style="border: 0; height: 40px; line-height: 100%; max-width: 100%; outline: none; text-decoration: none; width: auto; display: inline" width="auto" />
                                                                                               </td>
                                                                                               <td style="width: auto; padding-bottom: 5px" width="auto">
-                                                                                                <p style="margin-bottom: 0; margin-left: 0; margin-right: 0; margin-top: 0; padding-bottom: 0">
-                                                                                                  Carbon Neutral Shipping
-                                                                                                </p>
+                                                                                                <p style="margin-bottom: 0; margin-left: 0; margin-right: 0; margin-top: 0; padding-bottom: 0">Carbon Neutral Shipping</p>
                                                                                               </td>
                                                                                             </tr>
                                                                                             <tr>
                                                                                               <td height="auto" style="width: 40px; height: auto; padding: 4px 24px 4px 0px" width="40">
-                                                                                                <img
-                                                                                                  alt=""
-                                                                                                  height="40px"
-                                                                                                  src="https://d3k81ch9hvuctc.cloudfront.net/company/UFRh4Z/images/49852796-006a-4af1-9661-5879a3d318e7.png"
-                                                                                                  style="
-                                                                                                    border: 0;
-                                                                                                    height: 40px;
-                                                                                                    line-height: 100%;
-                                                                                                    max-width: 100%;
-                                                                                                    outline: none;
-                                                                                                    text-decoration: none;
-                                                                                                    width: auto;
-                                                                                                    display: inline;
-                                                                                                  "
-                                                                                                  width="auto"
-                                                                                                />
+                                                                                                <img alt="" height="40px" src="https://d3k81ch9hvuctc.cloudfront.net/company/UFRh4Z/images/49852796-006a-4af1-9661-5879a3d318e7.png" style="border: 0; height: 40px; line-height: 100%; max-width: 100%; outline: none; text-decoration: none; width: auto; display: inline" width="auto" />
                                                                                               </td>
                                                                                               <td style="width: auto; padding-bottom: 5px" width="auto">
-                                                                                                <p style="margin-bottom: 0; margin-left: 0; margin-right: 0; margin-top: 0; padding-bottom: 0">
-                                                                                                  Sustainable Mailers
-                                                                                                </p>
+                                                                                                <p style="margin-bottom: 0; margin-left: 0; margin-right: 0; margin-top: 0; padding-bottom: 0">Sustainable Mailers</p>
                                                                                               </td>
                                                                                             </tr>
                                                                                           </tbody>
@@ -1355,10 +856,7 @@
                                               </tbody>
                                             </table>
                                           </div>
-                                          <div
-                                            class="mj-column-per-100 mj-outlook-group-fix component-wrapper desktop-only"
-                                            style="font-size: 0px; text-align: left; direction: ltr; vertical-align: top; width: 100%"
-                                          >
+                                          <div class="mj-column-per-100 mj-outlook-group-fix component-wrapper desktop-only" style="font-size: 0px; text-align: left; direction: ltr; vertical-align: top; width: 100%">
                                             <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%" width="100%">
                                               <tbody>
                                                 <tr>
@@ -1411,14 +909,7 @@
                         <td style="direction: ltr; font-size: 0px; padding: 0px; text-align: center">
                           <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><table align="center" border="0" cellpadding="0" cellspacing="0" class="" style="width:600px;" width="600" bgcolor="#1F2322" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
                           <div style="background: #1f2322; background-color: #1f2322; margin: 0px auto; border-radius: 0px 0px 0px 0px; max-width: 600px">
-                            <table
-                              align="center"
-                              border="0"
-                              cellpadding="0"
-                              cellspacing="0"
-                              role="presentation"
-                              style="background: #1f2322; background-color: #1f2322; width: 100%; border-radius: 0px 0px 0px 0px"
-                            >
+                            <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background: #1f2322; background-color: #1f2322; width: 100%; border-radius: 0px 0px 0px 0px">
                               <tbody>
                                 <tr>
                                   <td style="direction: ltr; font-size: 0px; padding: 20px 0; padding-bottom: 30px; padding-left: 40px; padding-right: 40px; padding-top: 50px; text-align: center">
@@ -1428,10 +919,7 @@
                                       <div class="kl-row colstack" style="display: table; table-layout: fixed; width: 100%">
                                         <!--[if true]><td style="vertical-align:top;width:520px;"><![endif]-->
                                         <div class="kl-column" style="display: table-cell; vertical-align: top; width: 100%">
-                                          <div
-                                            class="mj-column-per-100 mj-outlook-group-fix component-wrapper"
-                                            style="font-size: 0px; text-align: left; direction: ltr; vertical-align: top; width: 100%"
-                                          >
+                                          <div class="mj-column-per-100 mj-outlook-group-fix component-wrapper" style="font-size: 0px; text-align: left; direction: ltr; vertical-align: top; width: 100%">
                                             <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%" width="100%">
                                               <tbody>
                                                 <tr>
@@ -1445,23 +933,7 @@
                                                                 <tr>
                                                                   <td class="" style="border: 0; padding: 0px 0px 0px 0px; width: 76px" valign="top">
                                                                     <a href="https://justaddbuoy.com/" style="color: #1f2322; font-style: normal; font-weight: 700; text-decoration: underline">
-                                                                      <img
-                                                                        alt="BUOY"
-                                                                        src="https://d3k81ch9hvuctc.cloudfront.net/company/UFRh4Z/images/85386bad-2a11-4bdb-8b34-4dd1637c931c.png"
-                                                                        style="
-                                                                          border: 0;
-                                                                          height: auto;
-                                                                          line-height: 100%;
-                                                                          max-width: 100%;
-                                                                          outline: none;
-                                                                          text-decoration: none;
-                                                                          display: block;
-                                                                          font-size: 13px;
-                                                                          width: 100%;
-                                                                        "
-                                                                        title="BUOY"
-                                                                        width="76"
-                                                                      />
+                                                                      <img alt="BUOY" src="https://d3k81ch9hvuctc.cloudfront.net/company/UFRh4Z/images/85386bad-2a11-4bdb-8b34-4dd1637c931c.png" style="border: 0; height: auto; line-height: 100%; max-width: 100%; outline: none; text-decoration: none; display: block; font-size: 13px; width: 100%" title="BUOY" width="76" />
                                                                     </a>
                                                                   </td>
                                                                 </tr>
@@ -1476,10 +948,7 @@
                                               </tbody>
                                             </table>
                                           </div>
-                                          <div
-                                            class="mj-column-per-100 mj-outlook-group-fix component-wrapper"
-                                            style="font-size: 0px; text-align: left; direction: ltr; vertical-align: top; width: 100%"
-                                          >
+                                          <div class="mj-column-per-100 mj-outlook-group-fix component-wrapper" style="font-size: 0px; text-align: left; direction: ltr; vertical-align: top; width: 100%">
                                             <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%" width="100%">
                                               <tbody>
                                                 <tr>
@@ -1498,10 +967,7 @@
                                               </tbody>
                                             </table>
                                           </div>
-                                          <div
-                                            class="mj-column-per-100 mj-outlook-group-fix component-wrapper"
-                                            style="font-size: 0px; text-align: left; direction: ltr; vertical-align: top; width: 100%"
-                                          >
+                                          <div class="mj-column-per-100 mj-outlook-group-fix component-wrapper" style="font-size: 0px; text-align: left; direction: ltr; vertical-align: top; width: 100%">
                                             <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%" width="100%">
                                               <tbody>
                                                 <tr>
@@ -1516,18 +982,7 @@
                                                                   align="center"
                                                                   bgcolor="#FFFFFF"
                                                                   role="presentation"
-                                                                  style="
-                                                                    border: none;
-                                                                    border-bottom: solid 1px #1f2322;
-                                                                    border-left: solid 1px #1f2322;
-                                                                    border-radius: 100px;
-                                                                    border-right: solid 1px #1f2322;
-                                                                    border-top: solid 1px #1f2322;
-                                                                    cursor: auto;
-                                                                    font-style: Normal;
-                                                                    mso-padding-alt: 15px 0px 15px 0px;
-                                                                    background: #ffffff;
-                                                                  "
+                                                                  style="border: none; border-bottom: solid 1px #1f2322; border-left: solid 1px #1f2322; border-radius: 100px; border-right: solid 1px #1f2322; border-top: solid 1px #1f2322; cursor: auto; font-style: Normal; mso-padding-alt: 15px 0px 15px 0px; background: #ffffff"
                                                                   valign="middle"
                                                                 >
                                                                   <a
@@ -1565,10 +1020,7 @@
                                               </tbody>
                                             </table>
                                           </div>
-                                          <div
-                                            class="mj-column-per-100 mj-outlook-group-fix component-wrapper"
-                                            style="font-size: 0px; text-align: left; direction: ltr; vertical-align: top; width: 100%"
-                                          >
+                                          <div class="mj-column-per-100 mj-outlook-group-fix component-wrapper" style="font-size: 0px; text-align: left; direction: ltr; vertical-align: top; width: 100%">
                                             <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%" width="100%">
                                               <tbody>
                                                 <tr>
@@ -1583,18 +1035,7 @@
                                                                   align="center"
                                                                   bgcolor="#FFFFFF"
                                                                   role="presentation"
-                                                                  style="
-                                                                    border: none;
-                                                                    border-bottom: solid 1px #1f2322;
-                                                                    border-left: solid 1px #1f2322;
-                                                                    border-radius: 100px;
-                                                                    border-right: solid 1px #1f2322;
-                                                                    border-top: solid 1px #1f2322;
-                                                                    cursor: auto;
-                                                                    font-style: Normal;
-                                                                    mso-padding-alt: 15px 0px 15px 0px;
-                                                                    background: #ffffff;
-                                                                  "
+                                                                  style="border: none; border-bottom: solid 1px #1f2322; border-left: solid 1px #1f2322; border-radius: 100px; border-right: solid 1px #1f2322; border-top: solid 1px #1f2322; cursor: auto; font-style: Normal; mso-padding-alt: 15px 0px 15px 0px; background: #ffffff"
                                                                   valign="middle"
                                                                 >
                                                                   <a
@@ -1632,10 +1073,7 @@
                                               </tbody>
                                             </table>
                                           </div>
-                                          <div
-                                            class="mj-column-per-100 mj-outlook-group-fix component-wrapper"
-                                            style="font-size: 0px; text-align: left; direction: ltr; vertical-align: top; width: 100%"
-                                          >
+                                          <div class="mj-column-per-100 mj-outlook-group-fix component-wrapper" style="font-size: 0px; text-align: left; direction: ltr; vertical-align: top; width: 100%">
                                             <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%" width="100%">
                                               <tbody>
                                                 <tr>
@@ -1650,18 +1088,7 @@
                                                                   align="center"
                                                                   bgcolor="#FFFFFF"
                                                                   role="presentation"
-                                                                  style="
-                                                                    border: none;
-                                                                    border-bottom: solid 1px #1f2322;
-                                                                    border-left: solid 1px #1f2322;
-                                                                    border-radius: 100px;
-                                                                    border-right: solid 1px #1f2322;
-                                                                    border-top: solid 1px #1f2322;
-                                                                    cursor: auto;
-                                                                    font-style: Normal;
-                                                                    mso-padding-alt: 15px 0px 15px 0px;
-                                                                    background: #ffffff;
-                                                                  "
+                                                                  style="border: none; border-bottom: solid 1px #1f2322; border-left: solid 1px #1f2322; border-radius: 100px; border-right: solid 1px #1f2322; border-top: solid 1px #1f2322; cursor: auto; font-style: Normal; mso-padding-alt: 15px 0px 15px 0px; background: #ffffff"
                                                                   valign="middle"
                                                                 >
                                                                   <a
@@ -1699,10 +1126,7 @@
                                               </tbody>
                                             </table>
                                           </div>
-                                          <div
-                                            class="mj-column-per-100 mj-outlook-group-fix component-wrapper"
-                                            style="font-size: 0px; text-align: left; direction: ltr; vertical-align: top; width: 100%"
-                                          >
+                                          <div class="mj-column-per-100 mj-outlook-group-fix component-wrapper" style="font-size: 0px; text-align: left; direction: ltr; vertical-align: top; width: 100%">
                                             <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%" width="100%">
                                               <tbody>
                                                 <tr>
@@ -1717,18 +1141,7 @@
                                                                   align="center"
                                                                   bgcolor="#FFFFFF"
                                                                   role="presentation"
-                                                                  style="
-                                                                    border: none;
-                                                                    border-bottom: solid 1px #1f2322;
-                                                                    border-left: solid 1px #1f2322;
-                                                                    border-radius: 100px;
-                                                                    border-right: solid 1px #1f2322;
-                                                                    border-top: solid 1px #1f2322;
-                                                                    cursor: auto;
-                                                                    font-style: Normal;
-                                                                    mso-padding-alt: 15px 0px 15px 0px;
-                                                                    background: #ffffff;
-                                                                  "
+                                                                  style="border: none; border-bottom: solid 1px #1f2322; border-left: solid 1px #1f2322; border-radius: 100px; border-right: solid 1px #1f2322; border-top: solid 1px #1f2322; cursor: auto; font-style: Normal; mso-padding-alt: 15px 0px 15px 0px; background: #ffffff"
                                                                   valign="middle"
                                                                 >
                                                                   <a
@@ -1766,10 +1179,7 @@
                                               </tbody>
                                             </table>
                                           </div>
-                                          <div
-                                            class="mj-column-per-100 mj-outlook-group-fix component-wrapper"
-                                            style="font-size: 0px; text-align: left; direction: ltr; vertical-align: top; width: 100%"
-                                          >
+                                          <div class="mj-column-per-100 mj-outlook-group-fix component-wrapper" style="font-size: 0px; text-align: left; direction: ltr; vertical-align: top; width: 100%">
                                             <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%" width="100%">
                                               <tbody>
                                                 <tr>
@@ -1788,10 +1198,7 @@
                                               </tbody>
                                             </table>
                                           </div>
-                                          <div
-                                            class="mj-column-per-100 mj-outlook-group-fix component-wrapper"
-                                            style="font-size: 0px; text-align: left; direction: ltr; vertical-align: top; width: 100%"
-                                          >
+                                          <div class="mj-column-per-100 mj-outlook-group-fix component-wrapper" style="font-size: 0px; text-align: left; direction: ltr; vertical-align: top; width: 100%">
                                             <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%" width="100%">
                                               <tbody>
                                                 <tr>
@@ -1805,17 +1212,8 @@
                                                               <!--[if !true]><!--><div class="" style="display: inline-block; padding-right: 10px"><!--<![endif]-->
                                                                 <!--[if true]><td style="padding-right:10px;"><![endif]-->
                                                                 <div style="text-align: center">
-                                                                  <a
-                                                                    href="https://www.instagram.com/justaddbuoy"
-                                                                    style="color: #1f2322; font-style: normal; font-weight: 700; text-decoration: underline"
-                                                                    target="_blank"
-                                                                  >
-                                                                    <img
-                                                                      alt="Instagram"
-                                                                      src="https://d3k81ch9hvuctc.cloudfront.net/company/UFRh4Z/images/8111f956-8bae-4094-9829-9f82929e3a94.png"
-                                                                      style="border: 0; height: auto; line-height: 100%; max-width: 100%; outline: none; text-decoration: none; width: 48px"
-                                                                      width="48"
-                                                                    />
+                                                                  <a href="https://www.instagram.com/justaddbuoy" style="color: #1f2322; font-style: normal; font-weight: 700; text-decoration: underline" target="_blank">
+                                                                    <img alt="Instagram" src="https://d3k81ch9hvuctc.cloudfront.net/company/UFRh4Z/images/8111f956-8bae-4094-9829-9f82929e3a94.png" style="border: 0; height: auto; line-height: 100%; max-width: 100%; outline: none; text-decoration: none; width: 48px" width="48" />
                                                                   </a>
                                                                 </div>
                                                                 <!--[if true]></td><![endif]-->
@@ -1825,17 +1223,8 @@
                                                               <!--[if !true]><!--><div class="" style="display: inline-block"><!--<![endif]-->
                                                                 <!--[if true]><td style=""><![endif]-->
                                                                 <div style="text-align: center">
-                                                                  <a
-                                                                    href="https://www.tiktok.com/@justaddbuoy"
-                                                                    style="color: #1f2322; font-style: normal; font-weight: 700; text-decoration: underline"
-                                                                    target="_blank"
-                                                                  >
-                                                                    <img
-                                                                      alt="Custom"
-                                                                      src="https://d3k81ch9hvuctc.cloudfront.net/company/UFRh4Z/images/4c71145b-8f8a-481d-85b7-693065db3e2a.png"
-                                                                      style="border: 0; height: auto; line-height: 100%; max-width: 100%; outline: none; text-decoration: none; width: 48px"
-                                                                      width="48"
-                                                                    />
+                                                                  <a href="https://www.tiktok.com/@justaddbuoy" style="color: #1f2322; font-style: normal; font-weight: 700; text-decoration: underline" target="_blank">
+                                                                    <img alt="Custom" src="https://d3k81ch9hvuctc.cloudfront.net/company/UFRh4Z/images/4c71145b-8f8a-481d-85b7-693065db3e2a.png" style="border: 0; height: auto; line-height: 100%; max-width: 100%; outline: none; text-decoration: none; width: 48px" width="48" />
                                                                   </a>
                                                                 </div>
                                                                 <!--[if true]></td><![endif]-->
@@ -1853,10 +1242,7 @@
                                               </tbody>
                                             </table>
                                           </div>
-                                          <div
-                                            class="mj-column-per-100 mj-outlook-group-fix component-wrapper"
-                                            style="font-size: 0px; text-align: left; direction: ltr; vertical-align: top; width: 100%"
-                                          >
+                                          <div class="mj-column-per-100 mj-outlook-group-fix component-wrapper" style="font-size: 0px; text-align: left; direction: ltr; vertical-align: top; width: 100%">
                                             <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%" width="100%">
                                               <tbody>
                                                 <tr>
@@ -1864,37 +1250,9 @@
                                                     <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
                                                       <tbody>
                                                         <tr>
-                                                          <td
-                                                            align="left"
-                                                            class="kl-text"
-                                                            style="font-size: 0px; padding: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; word-break: break-word"
-                                                          >
-                                                            <div
-                                                              style="
-                                                                font-family: 'Inter', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif;
-                                                                font-size: 22px;
-                                                                font-style: Normal;
-                                                                font-weight: 300;
-                                                                letter-spacing: 0px;
-                                                                line-height: 1.5;
-                                                                text-align: left;
-                                                                color: #1f2322;
-                                                              "
-                                                            >
-                                                              <p
-                                                                style="
-                                                                  margin-bottom: 0;
-                                                                  margin-left: 0;
-                                                                  margin-right: 0;
-                                                                  margin-top: 0;
-                                                                  padding-bottom: 0;
-                                                                  font-size: 14px;
-                                                                  text-align: center;
-                                                                  color: #fff;
-                                                                "
-                                                              >
-                                                                © 2022 Buoy. All Rights Reserved.<br />3873 Ingraham Street, D203, San Diego, CA 92109
-                                                              </p>
+                                                          <td align="left" class="kl-text" style="font-size: 0px; padding: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; word-break: break-word">
+                                                            <div style="font-family: 'Inter', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif; font-size: 22px; font-style: Normal; font-weight: 300; letter-spacing: 0px; line-height: 1.5; text-align: left; color: #1f2322">
+                                                              <p style="margin-bottom: 0; margin-left: 0; margin-right: 0; margin-top: 0; padding-bottom: 0; font-size: 14px; text-align: center; color: #fff">© 2022 Buoy. All Rights Reserved.<br />3873 Ingraham Street, D203, San Diego, CA 92109</p>
                                                             </div>
                                                           </td>
                                                         </tr>
